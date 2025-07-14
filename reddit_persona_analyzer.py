@@ -281,42 +281,42 @@ class PersonaReportGenerator:
 
 ## Detailed Characteristics
 
-### 🎯 Interests & Hobbies
+### Interests & Hobbies
 {self._format_list(persona_data.persona.interests)}
 
 {self._format_citations('interests', persona_data.citations)}
 
-### 🧠 Personality Traits
+### Personality Traits
 {self._format_list(persona_data.persona.personality_traits)}
 
 {self._format_citations('personality_traits', persona_data.citations)}
 
-### 🎯 Goals & Motivations
+### Goals & Motivations
 {self._format_list(persona_data.persona.goals_motivations)}
 
 {self._format_citations('goals_motivations', persona_data.citations)}
 
-### 😤 Pain Points & Frustrations
+### Pain Points & Frustrations
 {self._format_list(persona_data.persona.pain_points)}
 
 {self._format_citations('pain_points', persona_data.citations)}
 
-### 💻 Technology Usage
+### Technology Usage
 {persona_data.persona.technology_usage}
 
 {self._format_citations('technology_usage', persona_data.citations)}
 
-### 💬 Communication Style
+### Communication Style
 {persona_data.persona.communication_style}
 
 {self._format_citations('communication_style', persona_data.citations)}
 
-### 💝 Values & Beliefs
+### Values & Beliefs
 {self._format_list(persona_data.persona.values_beliefs)}
 
 {self._format_citations('values_beliefs', persona_data.citations)}
 
-### 🏠 Lifestyle
+### Lifestyle
 {persona_data.persona.lifestyle}
 
 {self._format_citations('lifestyle', persona_data.citations)}
