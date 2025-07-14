@@ -1,7 +1,7 @@
 
 # User Persona Analysis Report
 ## Reddit User: kojied
-## Generated on: 2025-07-14 18:49:15
+## Generated on: 2025-07-14 20:37:35
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Detailed Characteristics
 
-### 🎯 Interests & Hobbies
+### Interests & Hobbies
 - Technology
 - Gaming
 - Sports
@@ -36,12 +36,12 @@
 
 
 
-### 🧠 Personality Traits
+### Personality Traits
 - Tech-savvy
 - Analytical
 - Opinionated
-- Humorous
-- Environmentally conscious
+- Curious
+- Frugal
 
 
 **Sources:**
@@ -55,7 +55,7 @@
 
 
 
-### 🎯 Goals & Motivations
+### Goals & Motivations
 - Staying updated with the latest technology
 - Building a better life in the US
 - Making a positive impact on the environment
@@ -77,29 +77,17 @@
 
 
 
-### 😤 Pain Points & Frustrations
+### Pain Points & Frustrations
 - Feeling out of place in social situations
 - Dealing with inconsistencies in technology
 - Concerns about the environment
-- Frustration with the current state of finance
+- Managing personal finance
 
 
-**Sources:**
-1. What needs to happen for the league to review the inconsistencies of the refs?: [removed]...
-   Source: https://www.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
-   Type: post
-
-2. Spacial tours with 3D map and 360˚ video: ...
-   Source: https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
-   Type: post
-
-3. Best blogs, tutorial channels to learn: Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?...
-   Source: https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
-   Type: post
+**Sources:** No specific citations available
 
 
-
-### 💻 Technology Usage
+### Technology Usage
 Advanced
 
 
@@ -114,14 +102,18 @@ Advanced
 
 
 
-### 💬 Communication Style
-Direct and humorous
+### Communication Style
+Direct and informative
 
 
-**Sources:** No specific citations available
+**Sources:**
+1. Spacial tours with 3D map and 360˚ video: ...
+   Source: https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+   Type: post
 
 
-### 💝 Values & Beliefs
+
+### Values & Beliefs
 - Innovation
 - Sustainability
 - Equality
@@ -139,7 +131,7 @@ Direct and humorous
 
 
 
-### 🏠 Lifestyle
+### Lifestyle
 Urban, active, and environmentally conscious
 
 
