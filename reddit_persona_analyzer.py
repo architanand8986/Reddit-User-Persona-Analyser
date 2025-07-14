@@ -365,7 +365,7 @@ def main():
         report_generator = PersonaReportGenerator()
         username = scraper.extract_username(profile_url)
         print(f"Analyzing profile for user: {username}")
-        print("Scraping Reddit profile...")
+        print("Scraping Reddit profile....")
         posts = scraper.scrape_profile(profile_url)
 
         if not posts:
@@ -373,9 +373,9 @@ def main():
             return
 
         print(f"Found {len(posts)} posts and comments")
-        print("Analyzing persona with LLM...")
+        print("Analyzing persona with LLM....")
         persona_data = analyzer.analyze_persona(posts, username)
-        print("Generating persona report...")
+        print("Generating persona report....")
         report = report_generator.generate_report(persona_data, username)
         output_filename = f"persona_{username}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
         with open(output_filename, 'w', encoding='utf-8') as f:
