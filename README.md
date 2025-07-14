@@ -27,7 +27,7 @@ Save the Python script as `reddit_persona_analyzer.py` in your desired directory
 Open your terminal/command prompt and run:
 
 ```bash
-pip install python-dotenv requests beautifulsoup4 langchain langchain-community langchain-groq pydantic
+pip install python-dotenv requests langchain langchain-community langchain-groq pydantic
 ```
 
 ### Step 3: Get Your Groq API Key
